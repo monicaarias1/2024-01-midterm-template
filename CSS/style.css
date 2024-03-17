@@ -1,0 +1,41 @@
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #947E7E;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: #FA7070;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* List styles */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Review styles */
+.review {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
